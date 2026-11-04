@@ -60,4 +60,4 @@ Jonathan Garica Oliveira
 
 LinkedIn: [(https://www.linkedin.com/in/jonathan-garcia-2b5090284/)]  
 GitHub: [(https://github.com/programasJG15/C-)]
-<img width="1222" height="2268" alt="image" src="https://github.com/user-attachments/assets/c7cf44a2-7234-47f3-b998-078304e42de5" />
+
